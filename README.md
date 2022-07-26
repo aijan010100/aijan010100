@@ -1,6 +1,4 @@
 # Hi 👋 My name is Aizhan  
-
-## Software Engineer 
 -----------------  
 * 🌍  I'm based in Seattle, WA 
 * ✉️  You can contact me at [aizhanmanatkyzy@gmail.com](mailto:aizhanmanatkyzy@gmail.com) 
